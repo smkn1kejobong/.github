@@ -11,7 +11,7 @@
 <div align="center">
   
 # 💫About Us :
-🌱 Curently Learning : Automation Script (Ansible)
+🌱 Curently Learning : CRUD on Laravel
 
 
   💬 Ask us about for any help
